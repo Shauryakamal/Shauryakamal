@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaurya Kamal</h1>
+<h1 align="center">Hi 👋, I'm Shaurya </h1>
 
 <h3 align="center">
 Software Engineer • Java Backend Developer • UI/UX Designer
