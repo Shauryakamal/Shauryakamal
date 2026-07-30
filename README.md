@@ -67,7 +67,7 @@ Building scalable backend systems with Java & Spring Boot while solving Data Str
 
 ## 📌 Featured Projects
 
-### 🧳 TripMind AI *(In Development)*
+### 🧳 TripMind AI 
 
 AI-powered travel planning platform with smart itinerary generation, itinerary generation and expense management.
 
@@ -77,7 +77,7 @@ AI-powered travel planning platform with smart itinerary generation, itinerary g
 
 ---
 
-### 🤖 Eve AI Assistant *(In Development)*
+### 🤖 Eve AI Assistant 
 
 AI assistant with memory, voice interaction and intelligent task automation.
 
@@ -99,7 +99,7 @@ Daily Java DSA repository containing:
 
 ---
 
-### 🧾 Ledger AI *(In Development)*
+### 🧾 Ledger AI 
 
 AI-powered personal finance and expense management platform.
 
