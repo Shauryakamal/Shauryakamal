@@ -9,7 +9,7 @@ Building scalable backend systems with Java & Spring Boot while solving Data Str
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+Production+Ready+Projects;Daily+DSA+%7C+LeetCode;Always+Learning+Something+New+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+Production+Ready+Projects;Daily+DSA+%7C+LeetCode;Always+Learning+Something+New+🚀"/>
 </p>
 
 ---
@@ -30,13 +30,13 @@ Building scalable backend systems with Java & Spring Boot while solving Data Str
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,postgres"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=spring"/>
 </p>
 
 **Also Familiar With**
@@ -44,12 +44,12 @@ Building scalable backend systems with Java & Spring Boot while solving Data Str
 - REST APIs
 - JWT Authentication
 - Maven
-- JPA / Hibernate
+- Spring Data JPA / Hibernate
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman"/>
 </p>
 
 ---
@@ -67,9 +67,9 @@ Building scalable backend systems with Java & Spring Boot while solving Data Str
 
 ## 📌 Featured Projects
 
-### 🧳 TripMind AI 
+### 🧳 TripMind AI *(In Development)*
 
-AI-powered travel planning platform with smart itinerary generation, itinerary generation and expense management.
+AI-powered travel planning platform with smart itinerary generation and expense management.
 
 **Tech Stack**
 
@@ -77,9 +77,9 @@ AI-powered travel planning platform with smart itinerary generation, itinerary g
 
 ---
 
-### 🤖 Eve AI Assistant 
+### 🤖 Eve AI Assistant *(In Development)*
 
-AI assistant with memory, voice interaction and intelligent task automation.
+Personal AI assistant with memory, voice interaction and intelligent task automation.
 
 **Tech Stack**
 
@@ -99,7 +99,7 @@ Daily Java DSA repository containing:
 
 ---
 
-### 🧾 Ledger AI 
+### 🧾 Ledger AI *(In Development)*
 
 AI-powered personal finance and expense management platform.
 
@@ -113,16 +113,14 @@ AI-powered personal finance and expense management platform.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shauryakamal&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shauryakamal&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shauryakamal&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shauryakamal&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Shauryakamal&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -149,16 +147,16 @@ https://shauryaportfolio.framer.website/
 
 https://www.linkedin.com/in/shaurya-526a73297/
 
+💻 **LeetCode**
+
+https://leetcode.com/u/shaurya14_02/
+
 ---
 
 <h3 align="center">
-
 ⭐ Thanks for visiting my profile! ⭐
-
 </h3>
 
 <p align="center">
-
 If you like my work, consider giving a ⭐ to my repositories.
-
 </p>
