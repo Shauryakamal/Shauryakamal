@@ -17,6 +17,7 @@ Building scalable backend systems with Java & Spring Boot while solving Data Str
 ## 👨‍💻 About Me
 
 - 🎓 Computer Engineering Graduate
+- 💼 Currently working as Graduate Engineer Trainee at HCLTech
 - 💻 Java Backend Developer passionate about building scalable backend applications
 - 🌱 Currently learning **Spring Boot, Microservices, Docker & System Design**
 - 📚 Solving **LeetCode & DSA** every day
@@ -67,7 +68,7 @@ Building scalable backend systems with Java & Spring Boot while solving Data Str
 
 ## 📌 Featured Projects
 
-### 🧳 TripMind AI *(In Development)*
+### 🧳 TripMind AI 
 
 AI-powered travel planning platform with smart itinerary generation and expense management.
 
@@ -77,7 +78,7 @@ AI-powered travel planning platform with smart itinerary generation and expense 
 
 ---
 
-### 🤖 Eve AI Assistant *(In Development)*
+### 🤖 Eve AI Assistant 
 
 Personal AI assistant with memory, voice interaction and intelligent task automation.
 
@@ -99,7 +100,7 @@ Daily Java DSA repository containing:
 
 ---
 
-### 🧾 Ledger AI *(In Development)*
+### 🧾 Ledger AI 
 
 AI-powered personal finance and expense management platform.
 
